@@ -1,0 +1,5 @@
+@import url('https://unpkg.com/qunit@2.9.3/qunit/qunit.css');
+
+h1, h2 {
+  font-family: Impact;
+}

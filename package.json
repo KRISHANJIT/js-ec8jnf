@@ -1,0 +1,10 @@
+{
+  "name": "js-abv5fl",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "jquery-ui-pack": "^1.12.3",
+    "qunit": "^2.9.3"
+  }
+}
